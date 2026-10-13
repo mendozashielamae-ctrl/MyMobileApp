@@ -1,0 +1,6 @@
+{
+  "name": "OmniCalc AI",
+  "description": "Offline-first smart calculator with an interactive onboarding walkthrough and an AI math tutor chat assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

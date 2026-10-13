@@ -1,0 +1,6 @@
+{
+  "summary": "Comprehensive phased implementation plan for an offline-first calculator with an integrated AI chatbot tutor and step-by-step onboarding experience.\nIncludes architecture diagram, offline state management, Express proxy for Gemini API, tactile calculator UI, and PWA installation workflow.",
+  "updatedAt": "2026-10-13T03:48:55.879232313Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
